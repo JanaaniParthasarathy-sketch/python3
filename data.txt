@@ -1,0 +1,4 @@
+Name: Janaani
+Course: AI & Data Science
+College: HITS Chennai
+Internship: Python Programming
